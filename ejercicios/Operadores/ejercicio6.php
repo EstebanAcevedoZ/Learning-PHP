@@ -12,4 +12,6 @@ echo '<br>';
 $baseRectangulo = 8;
 $alturaRectangulo = 6;
 echo "el área del rectángulo es ". $baseRectangulo*$alturaRectangulo." y su perímetro es ". ($baseRectangulo*2)+($alturaRectangulo*2);
+
+$prueba = 69;
 ?>
